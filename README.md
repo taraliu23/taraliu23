@@ -8,7 +8,7 @@ A magical INTJ who loves coding, cooking, and cold jokes.
 
 
 - 👩‍💻 Pronouns: she/her
-- 💬 Ask me about fashion, metal music, books, gym, cooking!
+- 💬 Ask me about fashion, metal music, books, and gym!
 - 📫 How to reach me: private.fun.ov.drunkenboat@gmail.com
 
 
