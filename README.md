@@ -2,9 +2,10 @@
 
 A magical INTJ who loves coding, cooking, and cold jokes.
 
-- 🔭 I’m currently working on a book rating and review web app with django.
-- 🌱 I’m currently learning linear algebra, data structure and algorithm.
-- 👯 I’m looking to collaborate on CTF competition.
+- 🔭 Currently working on: a book rating and review web app with django.
+- 🌱 Currently learning linear algebra, data structure and algorithm.
+- 👯 Looking to collaborate on CTF competition.
+
 
 - 👩‍💻 Pronouns: she/her
 - 💬 Ask me about fashion, metal music, books, gym, cooking!
