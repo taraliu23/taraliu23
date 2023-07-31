@@ -3,7 +3,7 @@
 A magical INTJ who loves coding, cooking, and writing.
 
 
-- 🌱 Currently learning linear algebra, data structure and algorithm.
+- 🌱 Currently learning linear algebra.
 
 - 👩‍💻 Pronouns: she/ her
 - 💬 Ask me about fashion, metal music, books, and gym!
