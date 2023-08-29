@@ -2,9 +2,7 @@
 
 A magical INTJ who loves coding, cooking, and writing.
 
-
-- 🌱 Currently learning linear algebra.
-
+- 🌱 Currently learning data and visual analysis.
 - 👩‍💻 Pronouns: she/ her
 - 💬 Ask me about fashion, metal music, books, and gym!
 - 📫 How to reach me: private.fun.ov.drunkenboat@gmail.com
