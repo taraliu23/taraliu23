@@ -2,7 +2,7 @@
 
 A magical INTJ who loves coding, cooking, and writing.
 
-- 🌱 Currently learning data and visual analysis.
+- 🌱 Looking for CTF teammates.
 - 👩‍💻 Pronouns: she/ her
 - 💬 Ask me about fashion, metal music, books, and gym!
 - 📫 How to reach me: private.fun.ov.drunkenboat@gmail.com
