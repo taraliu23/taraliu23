@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Tara!
 
 A magical INTJ who loves coding, cooking, and writing.
+
+Computational Science | NLP | Front-end Dev | Cyber Security | Spatial Data Science
 
 - 🌱 Looking for CTF teammates.
 - 👩‍💻 Pronouns: she/ her
