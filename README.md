@@ -19,7 +19,7 @@ A magical INTJ who loves coding, cooking, and writing.
 > -- Robert A. Heinlein
 
 #### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=drunken-boat" alt="drunken-boat" /></p>
+<p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=drunken-boat" alt="drunken-boat" /></p>
 
 #### Streak
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=drunken-boat&" alt="drunken-boat" /></p>
+<p><img align="mid" src="https://github-readme-streak-stats.herokuapp.com/?user=drunken-boat&" alt="drunken-boat" /></p>
