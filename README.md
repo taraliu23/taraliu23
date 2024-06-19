@@ -15,6 +15,7 @@ Computational Science | NLP | Front-end Dev | Cyber Security | Spatial Data Scie
 > “The good life is one inspired by love and guided by knowledge. Neither love without knowledge nor knowledge without love can produce a good life.”
 > ― Bertrand Russell
 
-```
+
 ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg)
-```
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drunken-boat&" alt="drunken-boat" /></p>
