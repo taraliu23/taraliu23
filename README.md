@@ -16,5 +16,5 @@ Computational Science | NLP | Front-end Dev | Cyber Security | Spatial Data Scie
 > ― Bertrand Russell
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/{drunken-boat}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg)
 ```
