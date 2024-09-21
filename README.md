@@ -21,5 +21,4 @@ A magical INTJ who loves coding, cooking, and writing.
 #### Stats
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=taraliu23" alt="taraliu23" /></p>
 
-#### Streak
-<p><img align="mid" src="https://github-readme-streak-stats.herokuapp.com/?user=taraliu23t&" alt="taraliu23" /></p>
+
