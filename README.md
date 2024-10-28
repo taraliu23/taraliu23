@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tara!
 
-#### ☺️ Good day, my ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg) visitor
+#### ☺️ Good day, my ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg) visitor!
 
 ##### NLP | Front-end Dev | Spatial Data Science | Cyber Security
 
@@ -21,3 +21,13 @@
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=taraliu23" alt="taraliu23" /></p>
 
 
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=grey)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
+<br>
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
