@@ -31,3 +31,5 @@
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
 <br>
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taraliu23)](https://github.com/taraliu23/github-readme-stats)
