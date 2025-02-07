@@ -7,6 +7,7 @@
 - 🐝 Pursuing M.S in Computational Science and Engineering at Georgia Tech
 - 🌱 Graduate Research Assistant in Geospatial Data Science
 - 👩‍💻 Ex - Data Analyst Intern at MARTA
+- 🧷 AI Safety Fellow
 - 💬 Ask me about fashion, metal music, books, and gym! 
 - 📫 Connet with me on **[LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)**
 
