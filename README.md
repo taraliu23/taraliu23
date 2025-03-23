@@ -22,8 +22,6 @@
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=taraliu23" alt="taraliu23" /></p>
 
 #### Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taraliu23&layout=compact)
-
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
