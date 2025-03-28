@@ -2,14 +2,15 @@
 
 #### ☺️ Good day, my ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg) visitor!
 
-##### NLP | Front-end Dev | Spatial Data Science | Cyber Security
+##### Full-stack Development | Spatial Data Science | Cyber Security
 
-- 🐝 Pursuing M.S in Computational Science and Engineering at Georgia Tech
+- 🐝 Pursuing M.S. in Computational Science and Engineering at Georgia Tech
 - 🌱 Graduate Research Assistant in Geospatial Data Science
 - 👩‍💻 Ex - Data Analyst Intern at MARTA
 - 🧷 AI Safety Fellow
 - 💬 Ask me about fashion, metal music, books, and gym! 
 - 📫 Connet with me on **[LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)**
+- 👩‍🍳 **[My Cooking portfolio](https://www.instagram.com/food_in_mirkwood/)**
 
 
 
