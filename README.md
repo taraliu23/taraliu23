@@ -4,10 +4,10 @@
 
 ##### Full-stack Development | Spatial Data Science | Cyber Security
 
-- 🐝 Pursuing M.S. in Computational Science and Engineering at Georgia Tech
-- 🌱 Graduate Research Assistant in Geospatial Data Science
-- 👩‍💻 Ex - Data Analyst Intern at MARTA
+- 🐝 M.S. in Computational Science and Engineering at Georgia Tech
 - 🧷 AI Safety Fellow
+- 🌱 Ex - Graduate Research Assistant in Geospatial Data Science
+- 👩‍💻 Ex - Data Analyst Intern at MARTA
 - 💬 Ask me about fashion, metal music, books, and gym! 
 - 📫 Connet with me on **[LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)**
 - 👩‍🍳 **[My Cooking portfolio](https://www.instagram.com/food_in_mirkwood/)**
